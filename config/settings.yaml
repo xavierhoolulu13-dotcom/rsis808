@@ -1,0 +1,4 @@
+# RSIS808 v5 — orchestrator settings
+max_parallel: 4
+base_interval_s: 1.0
+heartbeat_interval_s: 30.0
