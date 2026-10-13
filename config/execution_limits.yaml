@@ -1,0 +1,3 @@
+# RSIS808 v5 — execution limits enforced by PolicyValidator
+max_retries: 3
+max_runtime_s: 300
